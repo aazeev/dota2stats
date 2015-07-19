@@ -1,0 +1,13 @@
+{
+    "name": "aazeev/dota2stats",
+    "description": "Dota 2 Stats Tool",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aazeev",
+            "email": "github.44.00@10g.pl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
